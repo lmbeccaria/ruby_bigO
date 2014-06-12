@@ -29,8 +29,8 @@ class List
     @length = 0
   end
 
-  def add(n1)
-    add_to_back(n1)
+  def add(node)
+    add_to_back(node)
   end
 
 # Add a node to the front of the list

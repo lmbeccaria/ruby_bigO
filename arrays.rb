@@ -41,3 +41,4 @@ def array_length(array)
   end
   return length
 end
+
